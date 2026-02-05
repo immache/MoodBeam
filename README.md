@@ -19,10 +19,14 @@
 
 ## 🖼️ 界面预览 (Preview)
 
-<!-- 这里展示主界面 -->
-![主界面预览](preview.png)
+<!-- 应用预览 -->
+<p align="center">
+  <img src="preview.png" width="45%" />
+  <img src="tray_menu.png" width="45%" />
+</p>
 
-*注：左侧展示群组匿名色块，右侧展示实时心声*
+
+*注：主界面左侧展示群组匿名色块，右侧展示实时心声*
 
 ---
 
